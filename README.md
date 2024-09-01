@@ -1,13 +1,14 @@
 
 Comment Toxicity Classification Project
 
-Overview
+Overview:
 This project involves using BERT (Bidirectional Encoder Representations from Transformers) for classifying comment toxicity. The main goal is to identify and categorize harmful or inappropriate content in comments, thereby improving moderation and enhancing online safety.
 
-Key Features
+Key Features:
 Text Classification: Implemented BERT to classify comments into various toxicity categories.
 Fine-Tuning: Adapted a pre-trained BERT model specifically for toxicity detection by training it on a tailored dataset.
 Performance Evaluation: Assessed the model’s accuracy and effectiveness in identifying toxic comments, and made optimizations to improve performance.
+
 Technologies Used
 Programming Language: Python
 Machine Learning Framework: PyTorch
