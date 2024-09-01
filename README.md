@@ -14,8 +14,7 @@ Machine Learning Framework: PyTorch
 Model: BERT (Bidirectional Encoder Representations from Transformers)
 Visualization Tools: Matplotlib, Seaborn
 
-Implementation Details
-
+Implementation Details:
 Data Preprocessing:
 Cleaning: I cleaned the text data to remove any noise or irrelevant information. This involved standard text preprocessing techniques such as removing special characters and normalizing text.
 Tokenization: Used BERT’s tokenizer to split comments into tokens and convert these tokens into numerical representations. This transformation is essential for preparing text data for model input.
