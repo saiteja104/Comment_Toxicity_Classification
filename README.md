@@ -40,3 +40,8 @@ Debugging: Addressed and resolved issues related to data mismatches and ensured 
 Visualization:
 Performance Visualization: Used Matplotlib and Seaborn to create visualizations such as performance curves, confusion matrices, and other metrics to interpret the model’s effectiveness and insights into its performance.
 Through these steps, I successfully developed a comment toxicity classification system using BERT, which can effectively identify and categorize harmful comments, contributing to better online moderation and safety.
+
+Deployment
+The comment toxicity classification model is deployed using Gradio. Gradio provides an interactive web interface to test the model and visualize its predictions. Users can input comments and see real-time classification results across categories such as toxic, severe toxic, obscene, threat, insult, and identity hate. This deployment simplifies model interaction and evaluation.
+
+
